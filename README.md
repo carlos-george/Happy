@@ -1,4 +1,5 @@
 <h1 align="center">
+    <img alt="Happy" title="Happy-Marker" src=".github/map-marker.png" />
     <img alt="Happy" title="Happy" src=".github/logo.svg" />
 </h1>
 
