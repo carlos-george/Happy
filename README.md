@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Made by Carlos George :wave: [Get in touch!](https://www.linkedin.com/in/carlos-george-58856a1b/)
